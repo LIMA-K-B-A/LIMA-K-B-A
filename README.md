@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
-### Technologies and tools:
+###  💻 Technologies and tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brayan-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Brayan-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br><br>
 
-### GitHub Stats
+### ⚒️ GitHub Stats
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/LIMA-K-B-A">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LIMA-K-B-A&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false"/>
@@ -20,7 +20,7 @@
   </a>
 </div>
     
-### Contact
+### 📫 Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/kaiquebrayan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
