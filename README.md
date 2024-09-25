@@ -15,8 +15,8 @@
 ### ⚒️ GitHub Stats
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/LIMA-K-B-A">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LIMA-K-B-A&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIMA-K-B-A&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=LIMA-K-B-A&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIMA-K-B-A&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
     
